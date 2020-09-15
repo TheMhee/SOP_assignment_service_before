@@ -1,5 +1,5 @@
 # Assignment Microservice diagram (before)
-![alt text](https://github.com/TheMhee/SOP_assignment_service_before/blob/master/service.png?raw=true)
+![alt text](https://github.com/TheMhee/SOP_assignment_service_before/blob/master/service.png?raw=true)\
 ตัว service จะเข้าได้สองทางคือ mobile app หรือ web app โดยผ่าน api gateway
 ### service ที่คิดออกมาจะมีทั้งหมด 7 services ได้แก่
 1. Account service ตัวจัดการบัญชีผู้ใช้ 
